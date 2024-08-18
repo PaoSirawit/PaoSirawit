@@ -6,14 +6,12 @@ My skil
 1 Medium level
 - HTML
 - CSS
-- JavaScript
-- C++
 
   
 2 Basic level
 - Java
-- C#
-- C
+- JavaScript
+- C++
 - Python
 
-I will be a web devoloper.
+I will be a Programer
